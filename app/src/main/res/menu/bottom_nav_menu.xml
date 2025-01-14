@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_heroes"
+        android:icon="@drawable/heroes"
+        android:title="Buenos"/>
+
+    <item
+        android:id="@+id/navigation_villanos"
+        android:icon="@drawable/baseline_close_24"
+        android:title="Malos"
+        />
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nombre</string>
+    <string name="app_Email">Escribe Email</string>
+    <string name="app_repeatEmail">Vuelve a escribir el Email</string>
+    <string name="app_Age">Edad</string>
+    <string name="app_Phone">Teléfono</string>
+    <string name="toolbar">Página de Registro</string>
+    <string name="Registrate">Regístrate</string>
+    <string name="app_password">Contraseña</string>
+    <string name="app_repeatpassword">Repite la contraseña</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
